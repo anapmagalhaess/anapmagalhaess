@@ -7,7 +7,7 @@
       <ul>
         <li>🎮 <b>Hobby:</b> When I'm not coding, you'll probably find me playing games.</li>
         <li>🎨 <b>Creativity:</b> I love sketching new ideas in Photoshop or Figma.</li>
-        <li>🐾 <b>Companion:</b> Proud kitten owner!</li>
+        <li>🐾 <b>Companion:</b> Proud kitty owner!</li>
       </ul>
       <br>
     </td>
