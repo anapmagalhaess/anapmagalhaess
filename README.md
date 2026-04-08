@@ -2,7 +2,7 @@
   <tr>
     <td>
       <h1>Hello, I'm Ana! 👩‍💻</h1>
-      <p>I'm a <b>Systems Analysis and Development</b> student at <b>FIAP</b>. I'm passionate about bridging the gap between graphic design and web development. Currently, I'm focusing on evolving my skills to become a fullstack developer.</p>
+      <p>I'm a <b>Software Analysis and Development</b> student at <b>FIAP</b>. I'm passionate about bridging the gap between graphic design and web development. Currently, I'm focusing on evolving my skills to become a fullstack developer.</p>
       <h3>⚡ A little about me...</h3>
       <ul>
         <li>🎮 <b>Hobby:</b> When I'm not coding, you'll probably find me playing games.</li>
