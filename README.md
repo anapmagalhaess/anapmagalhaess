@@ -37,9 +37,18 @@
 
 ---
 
+<div align="center">
+  <img height="180" src="https://streak-stats.demolab.com?user=anapmagalhaess&theme=rose_pine&hide_border=true" />
+</div>
+
+---
+
 ### 🤝 Connect with me
 <div> 
   <a href="https://instagram.com/teorsynk" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.twitch.tv/teorsynk" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/anaclmagalhaes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
+<br>
+<br>
+<p align="center"><i>"Designing with heart, coding with logic."</i> ✨</p>
