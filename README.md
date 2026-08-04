@@ -1,42 +1,81 @@
-<table border="0">
-  <tr>
-    <td>
-      <h1>Hello, I'm Ana! 👩‍💻</h1>
-      <p>I'm a <b>Software Analysis and Development</b> student at <b>FIAP</b>. I'm passionate about bridging the gap between graphic design and development. Currently, I'm focusing on evolving my skills to become a fullstack developer.</p>
-      <h3>⚡ A little about me...</h3>
-      <ul>
-        <li>🎮 <b>Hobby:</b> When I'm not coding, you'll probably find me playing games.</li>
-        <li>🎨 <b>Creativity:</b> I love sketching new ideas in Photoshop or Figma.</li>
-        <li>🐾 <b>Companion:</b> Proud kitty owner!</li>
-      </ul>
-      <br>
-    </td>
-    <td align="center">
-      <img src="https://images.steamusercontent.com/ugc/16104032284466520612/4CEA79B1D5C43AA65E3EE920B68E4B4A1172F83F/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="700px" style="border-radius: 80%;">
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <br />
+  <img src="https://media4.giphy.com/avatars/Tabibsika/tXNXbrdxOqew.gif" width="330px" style="border-radius: 50%; border: 3px solid #f4b6c2;" />
+  <h1> ✦ <code>Hello, I'm Ana!</code> </h1>
+  <p><b>Software Analysis and Development student @ FIAP</b> 🎓</p>
+  <br />
+</div>
 
-## 💻 Languages
-<img alt="Js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img alt="Java" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> <img alt="HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img alt="CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img alt="Py" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img alt="Csharp" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+---
 
-## 🛠️ Technologies & Tools
-<img alt="Photoshop" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg"> <img alt="Figma" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"> <img alt="Git" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> <img alt="VSCode" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+### 🌸 <code>A little about me</code>
+<p>
+  🎮♡ <b>Hobby:</b> Currently playing Overwatch, Dead by Daylight, Resident Evil & VALORANT ₍ ᐢ.  .ᐢ ₎<br />
+  🐾♡ <b>Companion:</b> Proud kitty owner! MIA.<br />
+  🎵♡ <b>On Repeat:</b> <i>Seoul City</i> by JENNIE 🎧‧₊˚<br />
+</p>
+
+---
+
+### 🍰 <code>Technologies & Tools</code>
+<p>
+<img src="https://img.shields.io/badge/Photoshop-f4b6c2?style=flat-square&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-f4b6c2?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-f4b6c2?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-f4b6c2?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-f4b6c2?style=flat-square&logo=javascript&logoColor=333" />
+  <img src="https://img.shields.io/badge/Java-f4b6c2?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-f4b6c2?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-f4b6c2?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-f4b6c2?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-f4b6c2?style=flat-square&logo=csharp&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/Unity-f4b6c2?style=flat-square&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-f4b6c2?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-f4b6c2?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Autodesk_Maya-f4b6c2?style=flat-square&logo=autodeskmaya&logoColor=white" />
+  <img src="https://img.shields.io/badge/IBM_Watson-f4b6c2?style=flat-square&logo=ibmwatson&logoColor=white" />
+  <img src="https://img.shields.io/badge/IBM_Cloud-f4b6c2?style=flat-square&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Telegram_Bot-f4b6c2?style=flat-square&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-f4b6c2?style=flat-square&logo=openai&logoColor=white" />
+  
+  
+</p>
 
 ---
 
 <div align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=anapmagalhaess&theme=rose_pine&hide_border=true" />
+  <h3>💫 <code>Stats</code></h3>
+  <img height="160" src="https://streak-stats.demolab.com?user=anapmagalhaess&theme=rose_pine&hide_border=true&border_radius=12" />
 </div>
 
----
+<br />
 
-### 🤝 Connect with me
-<div> 
-  <a href="https://instagram.com/teorsynk" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.twitch.tv/teorsynk" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/anaclmagalhaes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+<div align="center">
+<div align="center">
+  <h3>💌 <code>Let's Connect!</code></h3>
+  <p>
+    <a href="https://www.linkedin.com/in/anaclmagalhaes/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-f4b6c2?style=flat-square&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://instagram.com/teorsynk" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-f4b6c2?style=flat-square&logo=instagram&logoColor=white" />
+    </a>
+    <a href="https://www.twitch.tv/teorsynk" target="_blank">
+      <img src="https://img.shields.io/badge/Twitch-f4b6c2?style=flat-square&logo=twitch&logoColor=white" />
+    </a>
+    <a href="mailto:anacl.pmagalhaes@gmail.com">
+      <img src="https://img.shields.io/badge/Email-f4b6c2?style=flat-square&logo=gmail&logoColor=white" />
+    </a>
+    <br />
+    <img src="https://img.shields.io/badge/Discord-spaccebuni-f4b6c2?style=flat-square&logo=discord&logoColor=white" />
+  </p>
+  
+  <br />
+  <br />
+
+  <p align="center">
+    ✨ <i>"Designing with heart, coding with logic."</i> ✨
+  </p>
 </div>
-<br>
-<br>
-<p align="center"><i>"Designing with heart, coding with logic."</i> ✨</p>
+</div>
