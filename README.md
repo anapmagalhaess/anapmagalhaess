@@ -1,3 +1,7 @@
+<div>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=125&section=header&reversal=false&&animation=fadeIn&color=f4b6c2" />
+</div>
+
 <div align="center">
   <br />
   <img src="https://media4.giphy.com/avatars/Tabibsika/tXNXbrdxOqew.gif" width="330px" style="border-radius: 50%; border: 3px solid #f4b6c2;" />
