@@ -23,27 +23,27 @@
 
 ### 🍰 <code>Technologies & Tools</code>
 <p>
-<img src="https://img.shields.io/badge/Photoshop-f4b6c2?style=flat-square&logo=adobephotoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-f4b6c2?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-f4b6c2?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-f4b6c2?style=flat-square&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-f4b6c2?style=flat-square&logo=javascript&logoColor=333" />
-  <img src="https://img.shields.io/badge/Java-f4b6c2?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-f4b6c2?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-f4b6c2?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-f4b6c2?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-f4b6c2?style=flat-square&logo=csharp&logoColor=white" />
-  <br />
-  <img src="https://img.shields.io/badge/Unity-f4b6c2?style=flat-square&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-f4b6c2?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-f4b6c2?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Autodesk_Maya-f4b6c2?style=flat-square&logo=autodeskmaya&logoColor=white" />
-  <img src="https://img.shields.io/badge/IBM_Watson-f4b6c2?style=flat-square&logo=ibmwatson&logoColor=white" />
-  <img src="https://img.shields.io/badge/IBM_Cloud-f4b6c2?style=flat-square&logo=ibm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Telegram_Bot-f4b6c2?style=flat-square&logo=telegram&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-f4b6c2?style=flat-square&logo=openai&logoColor=white" />
-  
-  
+<img src="https://img.shields.io/badge/Photoshop-f4b6c2?style=flat-square&logo=adobephotoshop&logoColor=333" />
+<img src="https://img.shields.io/badge/Figma-f4b6c2?style=flat-square&logo=figma&logoColor=333" />
+<img src="https://img.shields.io/badge/Git-f4b6c2?style=flat-square&logo=git&logoColor=333" />
+<img src="https://img.shields.io/badge/VS_Code-f4b6c2?style=flat-square&logo=visualstudiocode&logoColor=333" />
+<img src="https://img.shields.io/badge/JavaScript-f4b6c2?style=flat-square&logo=javascript&logoColor=333" />
+<img src="https://img.shields.io/badge/Java-f4b6c2?style=flat-square&logo=openjdk&logoColor=333" />
+<img src="https://img.shields.io/badge/Java_Swing-f4b6c2?style=flat-square&logo=openjdk&logoColor=333" />
+<img src="https://img.shields.io/badge/HTML5-f4b6c2?style=flat-square&logo=html5&logoColor=333" />
+<img src="https://img.shields.io/badge/CSS3-f4b6c2?style=flat-square&logo=css3&logoColor=333" />
+<img src="https://img.shields.io/badge/Python-f4b6c2?style=flat-square&logo=python&logoColor=333" />
+<img src="https://img.shields.io/badge/C%23-f4b6c2?style=flat-square&logo=csharp&logoColor=333" />
+<br />
+<img src="https://img.shields.io/badge/Unity-f4b6c2?style=flat-square&logo=unity&logoColor=333" />
+<img src="https://img.shields.io/badge/MySQL-f4b6c2?style=flat-square&logo=mysql&logoColor=333" />
+<img src="https://img.shields.io/badge/GitHub-f4b6c2?style=flat-square&logo=github&logoColor=333" />
+<img src="https://img.shields.io/badge/Autodesk_Maya-f4b6c2?style=flat-square&logo=autodeskmaya&logoColor=333" />
+<img src="https://img.shields.io/badge/IBM_Watson-f4b6c2?style=flat-square&logo=ibmwatson&logoColor=333" />
+<img src="https://img.shields.io/badge/IBM_Cloud-f4b6c2?style=flat-square&logo=ibm&logoColor=333" />
+<img src="https://img.shields.io/badge/Telegram_Bot-f4b6c2?style=flat-square&logo=telegram&logoColor=333" />
+<img src="https://img.shields.io/badge/OpenAI-f4b6c2?style=flat-square&logo=openai&logoColor=333" />
+    
 </p>
 
 ---
