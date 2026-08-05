@@ -4,7 +4,7 @@
 
 <div align="center">
   <br />
-  <img src="https://media4.giphy.com/avatars/Tabibsika/tXNXbrdxOqew.gif" width="330px" style="border-radius: 50%; border: 3px solid #f4b6c2;" />
+  <img src="https://github.com/user-attachments/assets/594ca9e3-f458-4a93-a8f8-fa3142021671" width="440" />
   <h1> ✦ <code>Hello, I'm Ana!</code> </h1>
   <p><b>Software Analysis and Development student @ FIAP</b> 🎓</p>
   <br />
