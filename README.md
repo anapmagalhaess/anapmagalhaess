@@ -45,6 +45,7 @@
 <img src="https://img.shields.io/badge/OpenAI-f4b6c2?style=flat-square&logo=openai&logoColor=333" />
 <img src="https://img.shields.io/badge/Node.js-f4b6c2?style=flat-square&logo=nodedotjs&logoColor=333" />
 <img src="https://img.shields.io/badge/Vite-f4b6c2?style=flat-square&logo=vite&logoColor=333" />
+  <br />
 <img src="https://img.shields.io/badge/React-f4b6c2?style=flat-square&logo=react&logoColor=333" />
 <img src="https://img.shields.io/badge/TypeScript-f4b6c2?style=flat-square&logo=typescript&logoColor=333" />
   
@@ -85,5 +86,8 @@
   <p align="center">
     ✨ <i>"Designing with heart, coding with logic."</i> ✨
   </p>
+  <div>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=125&section=footer&reversal=true&animation=fadeIn&color=f4b6c2" />
+</div>
 </div>
 </div>
