@@ -48,7 +48,6 @@
 <img src="https://img.shields.io/badge/Vite-f4b6c2?style=flat-square&logo=vite&logoColor=333" />
 <img src="https://img.shields.io/badge/React-f4b6c2?style=flat-square&logo=react&logoColor=333" />
 <img src="https://img.shields.io/badge/TypeScript-f4b6c2?style=flat-square&logo=typescript&logoColor=333" />
-<img src="https://img.shields.io/badge/npm-f4b6c2?style=flat-square&logo=npm&logoColor=333" />
 <img src="https://img.shields.io/badge/TailwindCSS-f4b6c2?style=flat-square&logo=tailwindcss&logoColor=333" />
   
 </p>
