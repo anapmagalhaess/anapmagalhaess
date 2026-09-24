@@ -121,6 +121,9 @@
 
 <br />
 
+<a href="https://sinkz.carrd.co/">
+  <img src="https://img.shields.io/badge/Portfolio-FFE38A?style=for-the-badge&logo=carrd&logoColor=333" alt="Portfolio" />
+</a>
 <img
   src="https://img.shields.io/badge/Discord-spaccebuni-CDBBFF?style=for-the-badge&logo=discord&logoColor=333"
   alt="Discord: spaccebuni"
